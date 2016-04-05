@@ -1,0 +1,29 @@
+{
+  "name": "angular2-bootsrtap-less-starter",
+  "version": "1.0.0",
+  "description": "An Angular2, Bootstrap and LESS starter with a hello-world application",
+  "repository": {
+    "type": "git"
+  },
+  "scripts": {
+    "postinstall": "bower install && typings install"
+  },
+  "devDependencies": {
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-open": "^1.0.0",
+    "gulp-sourcemap": "^1.0.1",
+    "gulp-sources-less": "^1.0.1",
+    "gulp-typescript": "^2.8.0",
+    "serve-static": "^1.10.0",
+    "typings": "^0.6.9"
+  },
+  "dependencies": {
+    "angular2": "^2.0.0-beta.13",
+    "es6-shim": "^0.35.0",
+    "reflect-metadata": "^0.1.2",
+    "rxjs": "^5.0.0-beta.2",
+    "zone.js": "^0.6.9"
+  }
+}
