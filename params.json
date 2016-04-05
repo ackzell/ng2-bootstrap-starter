@@ -1,0 +1,6 @@
+{
+  "name": "ng2-bootstrap-starter",
+  "tagline": "Angular2 starter kit featuring Twitter Bootstrap, LESS and a gulp workflow.",
+  "body": "### Another Angular2 starter kit.\r\nSo, I recently needed to start playing around with Angular2. I found Pawel Kozlowski's [ng2-play](https://github.com/pkozlowski-opensource/ng2-play) and figured that this was my way to go. As I'm not a big fan (meaning I can't really use it in a way that completely pleases me) of [webpack](https://webpack.github.io/) just yet and feel more comfortable with [gulp](http://gulpjs.com/) it helped me a lot to get up and running.\r\n\r\nBut I also needed the styling and the benefits of a grid layout I kind of feel comfortable with: [Twitter Bootstrap](http://getbootstrap.com/) so I threw that in here.\r\n\r\n[LESS](http://lesscss.org/) is also part of this mixture of FrontEnd technologies.\r\n\r\nFeel free to fork this project, add your own technologies and start learning Angular2.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
