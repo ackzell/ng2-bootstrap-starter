@@ -1,5 +1,7 @@
 #NG2-BOOTSTRAP-STARTER
 
+##NOTE: this is an expanded version of [https://github.com/pkozlowski-opensource/ng2-play](https://github.com/pkozlowski-opensource/ng2-play)
+
 This is a starter kit featuring:
 
 * Angular2 (beta 13)
@@ -13,7 +15,7 @@ This is a starter kit featuring:
 ## How to use this starter kit
 
 0. Make sure that you have `gulp` installed on your environment. (This requires Node.js)
-    *```$ npm install -g gulp``` if you don't.
+    * ```$ npm install -g gulp``` if you don't.
 1. Clone this (ng2-bootstrap-starter) repository on your local machine.
 2. Run ```$ npm install``` on your terminal.
     * This will install `bower` and `typings` dependencies after the node modules have been installed.
